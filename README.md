@@ -41,6 +41,7 @@ Figure 02  Encoder 8 * 3
 **PROGRAM**
 
 /* 
+```
 Developed by:L.yagnesh kumar reddy
 RegisterNumber:212223100024
 
@@ -51,12 +52,15 @@ assign a0 = d1|d3|d5|d7;
 assign a1 = d2|d3|d6|d7;
 assign a2 = d4|d5|d6|d7;
 endmodule
+```
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
-RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling image
+![Screenshot 2024-04-04 103544](https://github.com/23004742/ENCODER8TO3DATAFLOW/assets/150319318/e9b39a66-2334-4b67-add2-c9288de66973)
+
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling image
+![Screenshot 2024-04-04 103555](https://github.com/23004742/ENCODER8TO3DATAFLOW/assets/150319318/fce058d8-b035-4a6e-8157-48e32c56da74)
+
 **RESULTS**
 Thus the Encoder 8 to 3 dataflow circuits are designed and the truth tables is verified using Quartus software.
 
